@@ -5,7 +5,7 @@ This is Networking and Advanced Java combination Project
 # Multithreaded Web Server
 
 A lightweight **multithreaded web server** built from scratch in **Java**, designed to handle multiple client requests concurrently using **socket programming** and **thread pools**.  
-This project demonstrates how a basic HTTP server works internally — from accepting connections to parsing requests and sending responses — while showcasing the power of concurrency in backend development.
+This project demonstrates how a basic HTTP server works internally from accepting connections to parsing requests and sending responses  while showcasing the power of concurrency in backend development.
 
 ---
 
